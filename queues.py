@@ -40,7 +40,7 @@ def calc_lamda_agg(lamda):
        Converts lambda to a tuple if it isn't already and calculates the aggregate arrival rate.
 
        Parameters:
-       lamda (float or tuple): Arrival rate.
+       lamda (float or tuple): Arrival rate
 
        Returns:
        float: The aggregated arrival rate.
